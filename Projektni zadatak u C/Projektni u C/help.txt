@@ -1,0 +1,40 @@
+
+In this app, available commands with their prototypes are:
+_________________________________________________________________________________________________________
+login - allows user to log in, so he could use the full scope of commands.
+_________________________________________________________________________________________________________
+where - shows the path to the current directory in which the logged in user is currently
+        working in.
+_________________________________________________________________________________________________________
+go (path) - changes current directory. Directory that is supposed to be new current directory is 
+	    command line argument - (path).
+_________________________________________________________________________________________________________
+create [-d] (name or path) - creates a new directory / file by following the path. If the -d parameter
+			     exists, creates a directory, otherwise - a file. If only the name is given
+                             (instead of the path), then a new directory / file is created in the 
+			     current directory. 
+*Note: If file with the same name already exists, it will be overwritten.
+_________________________________________________________________________________________________________
+list [path] - lists the contents of a directory on a given path (or current directory if no path is 
+              specified). It prints the entire directory (including files) tree, whose root is given 
+              (or current) directory.
+_________________________________________________________________________________________________________
+print (file) - prints the contents of a text file to the console.  
+_________________________________________________________________________________________________________
+find ("text") (file) - searches the file in order to find the given text. If the text is found, command 
+ 		       returns the number of line in the file where the text first occurred.
+_________________________________________________________________________________________________________
+findDat (file) (path) - searches the directory tree whose root is specified as a path, and looks for 
+                        a file that has the same name as the first command line argument.
+_________________________________________________________________________________________________________
+clear - clears the console screen
+_________________________________________________________________________________________________________
+logout - enables user to log out, so he could perhaps log in again with different account without exiting 
+         the app. 
+_________________________________________________________________________________________________________
+exit - closes the app
+_________________________________________________________________________________________________________
+
+* Note: brackets in the given prototypes should not exist when using command. 
+  Ordinary brackets are there to denote mandatory arguments.
+  Square brackets are there to denote arbitrary arguments.

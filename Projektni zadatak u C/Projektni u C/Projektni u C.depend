@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1591978994 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"read_from_stdin.h"
+	"login.h"
+	"color.h"
+	"execute_command.h"
+	"string_manipulations.h"
+	"help.h"
+
+1591972619 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\check.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<errno.h>
+	<direct.h>
+	"string_manipulations.h"
+
+1589312698 c:\users\user\desktop\projektni zadatak u c\projektni u c\string_manipulations.h
+
+1591543232 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\color.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1591980568 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\create.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"string_manipulations.h"
+
+1589315321 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\directory.c
+	<stdlib.h>
+	<stdio.h>
+	<direct.h>
+
+1591990563 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\execute_command.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"read_from_stdin.h"
+	"color.h"
+	"string_manipulations.h"
+	"where.h"
+	"go.h"
+	"create.h"
+	"print.h"
+	"find.h"
+	"findDat.h"
+	"list.h"
+	"help.h"
+	"check.h"
+	"clear_console.h"
+	"login.h"
+
+1589312616 c:\users\user\desktop\projektni zadatak u c\projektni u c\read_from_stdin.h
+
+1589314277 c:\users\user\desktop\projektni zadatak u c\projektni u c\color.h
+
+1591643790 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\find.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string_manipulations.h"
+	"check.h"
+
+1591981334 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\finddat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<windows.h>
+	"string_manipulations.h"
+
+1591374407 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\go.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	"string_manipulations.h"
+	"check.h"
+
+1591543740 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<windows.h>
+	"string_manipulations.h"
+
+1591979228 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\login.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"read_from_stdin.h"
+	"directory.h"
+	"string_manipulations.h"
+	"color.h"
+
+1589312493 c:\users\user\desktop\projektni zadatak u c\projektni u c\directory.h
+
+1591547053 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\print.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"check.h"
+	"string_manipulations.h"
+
+1589313208 c:\users\user\desktop\projektni zadatak u c\projektni u c\check.h
+
+1587336702 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\read_from_stdin.c
+	<stdio.h>
+	<stdlib.h>
+
+1591545105 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\string_manipulations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1592060506 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\where.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directory.h"
+
+1591976675 c:\users\user\desktop\projektni zadatak u c\projektni u c\where.h
+
+1589312533 c:\users\user\desktop\projektni zadatak u c\projektni u c\go.h
+
+1589312485 c:\users\user\desktop\projektni zadatak u c\projektni u c\create.h
+
+1589312611 c:\users\user\desktop\projektni zadatak u c\projektni u c\print.h
+
+1591643152 c:\users\user\desktop\projektni zadatak u c\projektni u c\find.h
+
+1589312545 c:\users\user\desktop\projektni zadatak u c\projektni u c\finddat.h
+
+1589312599 c:\users\user\desktop\projektni zadatak u c\projektni u c\list.h
+
+1591975714 c:\users\user\desktop\projektni zadatak u c\projektni u c\login.h
+
+1589312562 c:\users\user\desktop\projektni zadatak u c\projektni u c\execute_command.h
+
+1591976861 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\clear_console.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589326752 source:c:\users\user\desktop\projektni zadatak u c\projektni u c\help.c
+	<stdlib.h>
+	<stdio.h>
+
+1589303983 c:\users\user\desktop\projektni zadatak u c\projektni u c\help.h
+
+1591977424 c:\users\user\desktop\projektni zadatak u c\projektni u c\clear_console.h
+
